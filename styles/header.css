@@ -11,6 +11,14 @@
      
  }
 
+ .handburger {
+   height: 20px;
+ }
+
+ .youtude-logo {
+   height: 20px;
+ }
+
  .middle-section {
     background-color: lightpink;
      flex: 1;
